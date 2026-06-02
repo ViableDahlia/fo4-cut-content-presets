@@ -2,8 +2,7 @@
 
 LooksMenu character presets restoring cut content NPCs from Fallout 4 and its DLC.
 
-Published by [Viable Dahlia](https://www.nexusmods.com/profile/viabledahlia)  
-Part of the **Cut Content Restored** modding project.
+Published by [Viable Dahlia](https://www.nexusmods.com/profile/viabledahlia) - Part of the **Cut Content Restored** modding project.
 
 ---
 
